@@ -6,7 +6,7 @@ from django.urls import reverse
 
 
 monthly_task = {
-    
+    "me": "hello",
     "january": "This January",
     "february": "This is February",
     "march": "This is March",
